@@ -1,5 +1,2 @@
-# Expert Sunar :D
-
-TEŞEKKÜRLER 
-
-KOD : NGROK_AUTH_TOKEN
+# Expert Sunar
+:D
